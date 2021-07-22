@@ -3,8 +3,15 @@ package org.coll;
 import java.util.Scanner;
 
 public class Results {
-	private void deva() {
-		// TODO Auto-generated method stub
+
+	private void devak() 
+{
+System.out.println("dd");
+}
+
+	private void deva() 
+{
+		System.out.println("deva");
 
 	}
 public static void main(String[] args) {
