@@ -3,6 +3,10 @@ package org.coll;
 import java.util.Scanner;
 
 public class Results {
+	private void devak() {
+		// TODO Auto-generated method stub
+
+	}
 public static void main(String[] args) {
 	Scanner s = new Scanner(System.in);
 	System.out.println("enter student id");
